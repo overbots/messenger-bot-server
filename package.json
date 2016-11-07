@@ -1,8 +1,12 @@
 {
   "name": "messenger-bot-server",
-  "version": "1.0.0",
-  "description": "Chatbot Server for Facebook Messenger",
+  "version": "1.0.1",
+  "description": "A simple way to create, test and host Facebook Messenger chatbots",
   "main": "index.js",
+  "repository": {
+    "url": "git@github.com:overbots/messenger-bot-server.git",
+    "type": "git"
+  },
   "author": "Bao Dang <dangvinhbao@gmail.com>",
   "license": "MIT",
   "scripts": {
