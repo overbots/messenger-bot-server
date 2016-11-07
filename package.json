@@ -1,0 +1,22 @@
+{
+  "name": "messenger-bot-server",
+  "version": "1.0.0",
+  "description": "Chatbot Server for Facebook Messenger",
+  "main": "index.js",
+  "author": "Bao Dang <dangvinhbao@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "lint": "standard"
+  },
+  "dependencies": {
+    "bunyan": "^1.8.4",
+    "dotenv": "^2.0.0",
+    "getenv": "^0.7.0",
+    "request": "^2.78.0",
+    "restify": "^4.2.0",
+    "restify-plugins": "^1.1.0"
+  },
+  "devDependencies": {
+    "standard": "^8.5.0"
+  }
+}
